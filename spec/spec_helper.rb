@@ -8,5 +8,7 @@ require 'cuke_mem'
 Dir["#{File.dirname(__FILE__)}/support/**/*.rb"].each {|f| require f}
 
 RSpec.configure do |config|
-  
+  config.before do
+    CukeMem.forget
+  end
 end
