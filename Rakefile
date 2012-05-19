@@ -23,7 +23,6 @@ Jeweler::Tasks.new do |gem|
   gem.authors = ["Chris Busbey"]
   # dependencies defined in Gemfile
 end
-Jeweler::RubygemsDotOrgTasks.new
 
 require 'rspec/core'
 require 'rspec/core/rake_task'
