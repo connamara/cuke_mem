@@ -5,7 +5,7 @@ module CukeMem
     end
 
     def memorize key, value
-      @memory[key.to_sym]=value
+      memory[key.to_sym]=value
     end
 
     def remember phrase

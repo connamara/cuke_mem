@@ -9,7 +9,7 @@ Allows you to write features like
 Feature: I can store and recall stuff
   Scenario: Obligatory Hello World
     Given my data is "World"
-    And I keep mydata as "VAR"
+    And I keep my data as "VAR"
     When I swizzle my data
     Then my data should be "Hello %{VAR}"
 ```
@@ -17,7 +17,7 @@ Feature: I can store and recall stuff
 Usage
 =====
 
-Include ```require 'cuke_memory/cucumber'``` in your ```features/support/env.rb```
+Include ```require 'cuke_mem/cucumber'``` in your ```features/support/env.rb```
 
 Then you can do
 
@@ -26,7 +26,7 @@ Given /^my data is "(.*)"$/ do |data|
   @my_data = data
 end
 
-Given /^I keep mydata as "(.*)"$/ do |var|
+Given /^I keep my data as "(.*)"$/ do |var|
   CukeMem.memorize var, @my_data
 end
 
