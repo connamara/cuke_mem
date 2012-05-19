@@ -15,10 +15,10 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "cuke_mem"
-  gem.homepage = "http://github.com/cbusbey/cuke_mem"
+  gem.homepage = "http://github.com/connamara/cuke_mem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A very simple memory bank for cucumber tests}
+  gem.description = %Q{Gem serves as a place where step definitions from different modules can share remembered data}
   gem.email = "chris.busbey@gmail.com"
   gem.authors = ["Chris Busbey"]
   # dependencies defined in Gemfile

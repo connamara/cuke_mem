@@ -1,4 +1,4 @@
 cuke mem
 --------
 
-A drop-dead simple memory bank for cucumber tests
+A very simple memory bank for cucumber tests
