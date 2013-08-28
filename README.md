@@ -1,4 +1,4 @@
-cuke\_mem
+cuke\_mem [![Build Status](https://travis-ci.org/connamara/cuke_mem.png?branch=master)](https://travis-ci.org/connamara/cuke_mem)
 --------
 
 A very simple memory bank for cucumber tests
