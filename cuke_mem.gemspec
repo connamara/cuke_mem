@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "cuke_mem"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Chris Busbey"]
-  s.date = "2013-08-27"
+  s.date = "2013-08-28"
   s.description = "Gem serves as a place where step definitions from different modules can share remembered data"
   s.email = "info@connamara.com"
   s.extra_rdoc_files = [
@@ -19,6 +19,7 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     ".rspec",
+    ".travis.yml",
     "CONTRIBUTION_GUIDELINES.md",
     "Gemfile",
     "Gemfile.lock",
