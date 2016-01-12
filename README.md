@@ -87,6 +87,6 @@ The names and logos for Connamara Systems are trademarks of Connamara Systems, l
 Licensing
 =========
 
-cuke\_mem is Copyright © 2013 Connamara Systems, llc. 
+cuke\_mem is Copyright © 2016 Connamara Systems, llc.
 
 This software is available under the GPL and a commercial license.  Please see the [LICENSE](https://github.com/connamara/cuke_mem/blob/master/LICENSE.txt) file for the terms specified by the GPL license.  The commercial license offers more flexible licensing terms compared to the GPL, and includes support services.  [Contact us](mailto:info@connamara.com) for more information on the Connamara commercial license, what it enables, and how you can start developing with it.
