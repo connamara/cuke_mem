@@ -78,7 +78,7 @@ Contributers:
 
 * Chris Busbey
 
-![Connamara Systems](http://www.connamara.com/images/home-connamara-logo-lg.png)
+![Connamara Systems](http://www.connamara.com/wp-content/uploads/2016/01/connamara_logo_dark.png)
 
 cuke\_mem is maintained and funded by [Connamara Systems, llc](http://connamara.com).
 
